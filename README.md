@@ -4,3 +4,5 @@ Testovací repozitář pro ukázku napojení AI agentů (Claude Code, GitHub Cop
 
 ## Obsah
 - `kalkulacka.py` – jednoduchá kalkulačka, na které agenti provádějí změny.
+
+Funkce `mocnina(a, n)` vrací hodnotu `a` umocněnou na `n`.
